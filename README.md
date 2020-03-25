@@ -2,6 +2,8 @@
 
 ## Projeto para a Semana Omnistack 11
 
+
+### Front-end
 <p align="center">
       <img src="https://github.com/CesarBalzer/BeTheHero/blob/master/frontend/src/assets/logo.svg" alt="Logo" width="30%">
 </p>
